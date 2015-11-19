@@ -1,0 +1,4 @@
+июн 09, 2015 11:53:58 PM testapp.TestApp init
+SEVERE: конфигурационный файл 'config.properties' не найден в classpath
+июн 09, 2015 11:53:58 PM testapp.TestApp main
+SEVERE: Старт тестового приложения
